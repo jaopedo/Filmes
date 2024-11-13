@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 212, 0);
+    text-align: center;
+}
+
+.titulo{
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+.tabela{
+    margin: 0 auto;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+tr, td{
+    border: 2px solid black;
+    padding: 15px;
+    
+
+}
